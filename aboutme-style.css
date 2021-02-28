@@ -1,0 +1,23 @@
+body {
+	background-image: url('boat.png');
+}
+
+.header {
+	color: tomato;
+	font-style: bold;
+	font-family: tahoma;
+}
+
+li a {
+	color: MediumSeaGreen;
+}
+
+footer a {
+	color: DarkRed;
+	text-decoration-style: underline;
+	font-style: bold; 
+}
+
+footer {
+	text-align: center;
+}
